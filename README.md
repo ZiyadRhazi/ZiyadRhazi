@@ -1,5 +1,8 @@
 # 💫 About Me:
-👋 Hi, I’m Ziyad 💻 Passionate about building scalable and efficient web applications using modern frameworks (Vue.js, React, Next.js, TypeScript) ☁️ Exploring cloud computing, automation, and serverless architectures 🔐 Interested in applied cryptography, network security, and system-level programming 📈 Always learning — from Python crash courses to hands-on projects and coding challenges
+👋 Hi, I’m Ziyad 💻 Passionate about building scalable and efficient web applications using modern frameworks (Vue.js, React, Next.js, TypeScript) 
+☁️ Exploring cloud computing, automation, and serverless architectures 
+🔐 Interested in applied cryptography, network security, and system-level programming
+📈 Always learning — from Python crash courses to hands-on projects and coding challenges
 
 
 ## 🌐 Socials:
